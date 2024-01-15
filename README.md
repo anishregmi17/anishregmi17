@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 - 🌱 I’m currently learning **PHP, MYSQL & LARAVEL**
 
-- 📝 I regularly write articles on [https://medium.com/@anishregminaglibang](https://medium.com/@anishregminaglibang)
-
 - 💬 Ask me about **Frontend,Wordpress**
 
 - 📫 How to reach me **anishregminaglibang@gmail.com**
