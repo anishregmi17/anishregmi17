@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/c/learn aniscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn aniscodes" height="30" width="40" /></a>
 </p>
 
-![Profile Views](https://img.shields.io/endpoint?url=<YOUR_ENDPOINT_URL>)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
