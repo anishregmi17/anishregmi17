@@ -55,8 +55,7 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/anishregmi17"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anishregmi17" /></a></p><br><br>
+<!-- <p><a href="https://ko-fi.com/anishregmi17"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anishregmi17" /></a></p><br><br> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishregmi17&label=Profile%20views&color=0e75b6&style=flat" alt="anishregmi17" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishregmi17" alt="anishregmi17" /></a> </p>
