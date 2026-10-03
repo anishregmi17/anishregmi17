@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Regmi</h1>
-<h3 align="center">CS Student | Developer</h3>
+<h3 align="center">CS Graduate | Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
